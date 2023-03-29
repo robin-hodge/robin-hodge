@@ -8,3 +8,7 @@
 🧐 My curiosity about development was fostered through working in teaching - to try and save us all time, I made automated report writing assistants and timetabling systems that were used accross the school, and a website for students to use for revision. I'm excited to shape this prior interest and aptitude into a career as a software developer.
 
 🏃 I like staying active, and regularly go climbing, running and hiking, and play football every week. I am also an enthusastic DJ, and play occasionally at festivals and in nightclubs (but mostly from my bedroom!). 
+
+👩‍💻Feel free to check out my portfolio website: robin-hodge.github.io 🧑‍💻
+
+📭 I am interested in exciting developer roles! Please get in touch with using linked 
