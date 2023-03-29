@@ -9,6 +9,4 @@
 
 🏃 I like staying active, and regularly go climbing, running and hiking, and play football every week. I am also an enthusastic DJ, and play occasionally at festivals and in nightclubs (but mostly from my bedroom!). 
 
-👩‍💻Feel free to check out my portfolio website: robin-hodge.github.io 🧑‍💻
-
-📭 I am interested in exciting developer roles! Please get in touch with using linked 
+📭 I am interested in exciting developer roles! Please get in touch if you are hiring!
